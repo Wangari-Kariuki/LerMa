@@ -1,5 +1,7 @@
 # Learning Managment System
 
+A project built in collaboration during Power Learn Project software deelopment program.
+
 ## Step 1: Project Setup
 
 ### Create a new directory for your project and navigate into it.
